@@ -797,7 +797,36 @@ button.del-btn {
     padding: 20px 20px 20px 5px;
   }
 
+  .order-help-block {
+    padding: 20px 5px;
+  }
+
+  h2.section-title {
+    font-size: 1.1rem;
+  }
+
+  .order-table {
+    left: 0;
+  }
+
   .control-wrapper {
     left: 0px;
+  }
+
+  .section-form-type .flex-wrapper {
+    justify-content: flex-start;
+  }
+
+  .order-buttons,
+  .help-block {
+    width: 100%;
+  }
+
+  .button {
+    margin: 10px auto;
+  }
+  .help-block {
+    padding-top: 0;
+    border-top: 1px solid #d6dce8;
   }
 }
